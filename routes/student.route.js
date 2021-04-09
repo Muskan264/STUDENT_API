@@ -20,4 +20,4 @@ router.delete('/:id/delete', student_controller.RemoveStudentDetails);
 
 module.exports = router;
 
-//Thank you so much yar mein yeh post krdo abhi? no need hn krdo maine phele wala post kiya tha :( wait
+
